@@ -7,4 +7,3 @@ The dataset used for model development, computing classification performance  Li
 
 The dataset used for testing the explaniable performance Link:https://nihcc.app.box.com/v/ChestXray-NIHCC
 
-This is class project
