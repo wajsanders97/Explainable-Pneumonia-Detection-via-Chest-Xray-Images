@@ -1,4 +1,4 @@
-# Explainable-Pneumonia-Detection-via-Chest-Xray-Images
+# Pneumonia-Detection-via-Chest-Xray-Images
 
 
 The task of this project was to develop a classifier to detect pneumonia via chest x-ray images
