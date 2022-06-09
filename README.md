@@ -9,4 +9,4 @@ The dataset used for testing the explaniable performance Link:https://nihcc.app.
 
 The Kermany dataset, consists of 5856 chest X-ray images from a large population of both adults and children, unevenly distributed among the classes “Pneumonia” and “Normal.”
 
-I chose to use Tensorflow, Keras with a Custom CNN Classifier:
+I chose to use Tensorflow, Keras, Python with a Custom CNN Classifier:
